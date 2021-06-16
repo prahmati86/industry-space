@@ -10,3 +10,7 @@ weight: this variable is the actual weight of the links in the industry space wh
 
 transformed_weight: the original weights tranformed using ln(1/weight). The tranformed weights are considered when using the shortest path algorithm to calculate 
 the industry-level digital proximities. 
+
+Please refer to the following paper for background information, and cite it in any written work that uses this data:
+
+Rahmati, P., Tafti, A., Westland, J.C.,  and Hidalgo, C. 2021. "When All Products Are Digital: Complexity and Intangible Value in the Ecosystem of Digitizing Firms," MIS Quarterly (45:3), pp. 1025-1060. Available at SSRN: https://ssrn.com/abstract=3589188 or http://dx.doi.org/10.2139/ssrn.3589188
