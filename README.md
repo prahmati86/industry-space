@@ -8,7 +8,7 @@ ind2: 6-digit NAICS industry code
 
 weight`year': this variable is the actual weight of the links in the industry space which is calculated using Equation A2
 
-transformed_`year': the original weights tranformed using ln(1/weight). The tranformed weights are considered when using the shortest path algorithm to calculate 
+transformed_weight`year': the original weights tranformed using ln(1/weight). The tranformed weights are considered when using the shortest path algorithm to calculate 
 the industry-level digital proximities. 
 
 Please refer to the following paper for background information, and cite it in any written work that uses this data:
